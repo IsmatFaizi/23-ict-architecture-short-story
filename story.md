@@ -1,7 +1,7 @@
 # Avengers: Endgame - Het ultieme gevecht om het universum te redden
 *Auteur: Ismat Faizi*
 
-![Avengers Endgame](Images/banner.jpeg)
+![Avengers Endgame](Images/new-banner.jpg)
 
 In Avengers: Endgame, de langverwachte opvolger van Avengers: Infinity War, worden de Earth's Mightiest Heroes geconfronteerd met hun grootste uitdaging ooit. Na de verwoestende daad van Thanos, waarbij de helft van alle leven in het universum werd vernietigd, zijn de Avengers vastbesloten om de balans te herstellen en de verlorenen terug te brengen.
 
